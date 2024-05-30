@@ -1,6 +1,6 @@
 # DeepBeliefNetwork
 
-Final project for the Cognition and Computation course of my master's degree.
+Final project for the [Cognition and Computation](https://en.didattica.unipd.it/off/2022/LM/SC/SC2377/001PD/SCQ0089498/N0) course of my master's degree.
 
 It is a Deep Belief Network analysis and implementation with PyTorch (based on some scripts given to us during the course). I trained this DBN with the [Fashion-MNIST dataset](https://github.com/zalandoresearch/fashion-mnist) and analyzed how it is performing representation learning.
 
